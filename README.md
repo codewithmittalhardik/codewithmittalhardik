@@ -88,24 +88,9 @@
 - **Problem Solving**
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" height="30"/> &nbsp;GitHub Trophies:
-<img src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png" height="150" alt="trophy graph"  />
-
 ---
 ## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDk4MjcsIm5iZiI6MTc0NTE0OTUyNywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExNDUyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhMzFiMTdhNzQwZGQ4ZmY2OWMxYTMwNmE4NjM2NGM1ZWY0MWQ1NzAwOGY4YzI0YjI3NDRkYTNlODI2ODA1ZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xUzUBKXAQfmzLutt8925czKDJH02qQeY9FNk4tSbXUE" height="30"/> &nbsp;**My GeeksForGeeks Profile**
 Check out my GfG profile [here](https://www.geeksforgeeks.org/profile/mittalhardik).
-
----
-
-
-## <img src="https://private-user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNTAxMzcsIm5iZiI6MTc0NTE0OTgzNywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc0NDMtZjUzODRiYTItYmY3OC00YmU0LTk0YmUtNDU1OWMxODI3MjQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExNTAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzNjg4Y2JkYmZiYWUxOWU3Y2U1NWI0NWUyYTJhMzJjYzkwNzI2NDUwYjc4NWUzNTA0NTg5YTM5MTM0MzMxYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TeUPLwstV-iQwcuYWQnJ0yhmm48M0dQH-IVfbco3pJQ" height="30"/> &nbsp;**My GitHub Stats**
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250"/>
-</p> 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithmittalhardik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</p>
 
 ---
 
